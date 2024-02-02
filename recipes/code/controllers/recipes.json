@@ -1,0 +1,31 @@
+{
+    "meta": {
+      "name": "recipes",
+      "date": "31 Januari 2024"
+    },
+    "data": [
+      {
+        "id": 1,
+        "creator_id": 1,
+        "name": "Spaghetti Bolognese",
+        "prepTime": "30 minutes",
+        "energy": "500 kcal",
+        "fat": "20 g",
+        "carbohydrate": "60 g",
+        "protein": "25 g",
+        "kitchenware": "Benodigdheden: grote pan, koekenpan"
+      },
+      {
+        "id": 2,
+        "creator_id": 2,
+        "name": "Chicken Alfredo",
+        "prepTime": "25 minutes",
+        "energy": "600 kcal",
+        "fat": "30 g",
+        "carbohydrate": "45 g",
+        "protein": "40 g",
+        "kitchenware": "Benodigdheden: grote pan, koekenpan"
+      }
+    ]
+  }
+  
