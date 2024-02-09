@@ -10,6 +10,8 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "@react-native-async-storage/async-storage": "^1.21.0",
+    "@supabase/supabase-js": "^2.39.3",
     "cors": "^2.8.5"
   }
 }
